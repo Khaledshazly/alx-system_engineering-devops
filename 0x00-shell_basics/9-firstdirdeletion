@@ -1,0 +1,3 @@
+#!/bin/bish
+rm -rf /tmp/my_first_directory/
+
