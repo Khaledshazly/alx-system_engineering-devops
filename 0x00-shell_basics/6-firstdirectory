@@ -1,0 +1,3 @@
+#!/bain/bash
+makdir -m 777 /tmp/my_first_directory/
+
